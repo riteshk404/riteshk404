@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 MERN Developer<br><br>🛠️ Works with React, Tailwind, MongoDB<br><br>💼 Builds real-world projects<br><br>🤝 Open to collaboration and new ideas
+👨‍💻 MERN Developer<br><br>🤝 Open to collaboration and new ideas
 
 
 # 📊 GitHub Stats:
