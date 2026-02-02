@@ -1,5 +1,4 @@
-# 💫 About Me:
-👨‍💻 MERN Developer<br><br>🤝 Open to collaboration and new ideas
+# MERN Developer
 
 
 # 📊 GitHub Stats:
